@@ -7,11 +7,11 @@ import SEO from '../components/SEO';
 import Section from '../components/Section';
 import RespGrid from '../components/RespGrid';
 import Figure from '../components/Figure';
-import img1 from '../images/Malta/klippen.JPG';
-import img2 from '../images/Malta/tür.JPG';
-import img3 from '../images/Malta/klippen2.JPG';
-import img4 from '../images/Malta/destinations Kopie.JPG';
-import img6 from '../images/Malta/nacht.JPG';
+import img1 from '../images/Malta/klippen.jpg';
+import img2 from '../images/Malta/tuer.jpg';
+import img3 from '../images/Malta/klippen2.jpg';
+import img4 from '../images/Malta/destinationsKopie.jpg';
+import img6 from '../images/Malta/nacht.jpg';
 
 const MaltaPage = () => (
 	<Layout>

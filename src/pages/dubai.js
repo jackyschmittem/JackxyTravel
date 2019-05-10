@@ -7,7 +7,7 @@ import SEO from '../components/SEO';
 import Section from '../components/Section';
 import RespGrid from '../components/RespGrid';
 import Figure from '../components/Figure';
-import imgG from '../images/Dubai/Wüste.jpg';
+import imgG from '../images/Dubai/Wueste.jpg';
 import imgI from '../images/Dubai/Burj.jpg';
 import imgJ from '../images/Dubai/Marina.jpg';
 import imgK from '../images/Dubai/Garten.jpg';

@@ -7,11 +7,11 @@ import Layout from '../components/Layout';
 import SEO from '../components/SEO';
 import Section from '../components/Section';
 import Figure from '../components/Figure';
-import imgDubai from '../images/Dubai/überseite.jpg';
-import imgHongKong from '../images/HongKong/überseiteneu.jpg';
+import imgDubai from '../images/Dubai/ueberseite.jpg';
+import imgHongKong from '../images/HongKong/ueberseiteneu.jpg';
 import imgFrance from '../images/Frankreich/promenade.jpg';
-import imgOslo from '../images/Oslo/überseite.jpg';
-import imgMalta from '../images/Malta/überseite.JPG';
+import imgOslo from '../images/Oslo/ueberseite.jpg';
+import imgMalta from '../images/Malta/ueberseite.jpg';
 import imgNY from '../images/NY/L1001386.jpg';
 
 const DestinationsPage = () => (

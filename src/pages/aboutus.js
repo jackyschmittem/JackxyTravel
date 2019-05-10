@@ -9,7 +9,7 @@ import RespGrid from '../components/RespGrid';
 import Figure from '../components/Figure';
 import imgAbout from '../images/AboutUs.jpg';
 import imgAbout2 from '../images/AboutUs2.jpeg';
-import imgAbout3 from '../images/Malta/felix.JPG';
+import imgAbout3 from '../images/Malta/felix.jpg';
 
 const AboutPage = () => (
 	<Layout>

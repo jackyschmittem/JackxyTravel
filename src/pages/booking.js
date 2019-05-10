@@ -7,7 +7,7 @@ import SEO from '../components/SEO';
 import Section from '../components/Section';
 import RespGrid from '../components/RespGrid';
 import Figure from '../components/Figure';
-import imgA from '../images/Malta/foto.JPG';
+import imgA from '../images/Malta/foto.jpg';
 
 const BookingPage = () => (
 	<Layout>

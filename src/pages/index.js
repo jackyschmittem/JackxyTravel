@@ -10,9 +10,9 @@ import SEO from '../components/SEO';
 import Figure from '../components/Figure';
 import Section from '../components/Section';
 import { H1, P, H2 } from '../components/VerticalRhythm';
-import imgStart from '../images/Malta/foto.JPG';
-import imgBooking from '../images/Malta/booking.JPG';
-import imgDestinations from '../images/Malta/destinations.JPG';
+import imgStart from '../images/Malta/foto.jpg';
+import imgBooking from '../images/Malta/booking.jpg';
+import imgDestinations from '../images/Malta/destinations.jpg';
 
 const IndexPage = () => (
 	<Layout>
