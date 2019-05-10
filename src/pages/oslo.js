@@ -24,13 +24,13 @@ const OsloPage = () => (
 			<H3>The untypical typical capital of Norway</H3>
 			<RespGrid min={'240px'}>
 				<P>
-					In contrast to the other capitals of the world, Oslo has a small population of XX inhabitants.
-					Nevertheless, the city is in no way inferring other capitals such as Kopenhagen or Berlin. The city
-					presents travelers the perfect mixture between historical architecture and modernity. Further, it is
-					a very innovative city being shown by a lot of new technologies used throughout the whole city and
-					even the taxis being electric. The Norwegian people as such can be considered to be very
-					introverted, but as soon as one gets to know them better, they are very welcoming towards
-					travellers!
+					In contrast to the other capitals of the world, Oslo has a small population of about 647.676
+					inhabitants. Nevertheless, the city is in no way inferring other capitals such as Kopenhagen or
+					Berlin. The city presents travelers the perfect mixture between historical architecture and
+					modernity. Further, it is a very innovative city being shown by a lot of new technologies used
+					throughout the whole city and even the taxis being electric. The Norwegian people as such can be
+					considered to be very introverted, but as soon as one gets to know them better, they are very
+					welcoming towards travellers!
 				</P>
 				<P>
 					But what makes this destination so special?
