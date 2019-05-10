@@ -24,21 +24,23 @@ const OsloPage = () => (
 			<H3>The untypical typical capital of Norway</H3>
 			<RespGrid min={'240px'}>
 				<P>
-					Usually, the French Riviera is known as the hot spot for the rich and famous – but there's more
-					about the beautiful south of France! One of the best things of the French Riviera is its diversity.
-					One can explore the beautiful coast with its curvy streets right at the edge of the cliffs and after
-					just a 30 minutes drive into the outback, one feels like being in a complete different country. The
-					hard cut between the paradisaical coast and the edgy, like the Rocky Mountains looking outback is
-					what makes the French Riviera highly impressive.
+					In contrast to the other capitals of the world, Oslo has a small population of XX inhabitants.
+					Nevertheless, the city is in no way inferring other capitals such as Kopenhagen or Berlin. The city
+					presents travelers the perfect mixture between historical architecture and modernity. Further, it is
+					a very innovative city being shown by a lot of new technologies used throughout the whole city and
+					even the taxis being electric. The Norwegian people as such can be considered to be very
+					introverted, but as soon as one gets to know them better, they are very welcoming towards
+					travellers!
 				</P>
 				<P>
 					But what makes this destination so special?
 					<br />
-					The perfect combination of western influence and old, chinese culture with its absolutely stunning
-					temples and old buildings makes the city a pure jewel on everyone's travel bucket list. Furthermore,
-					one can find incredible and internationally known street art in nearly every district. But as with
-					every destination – you have to experience it by yourself. You want to know more about the French
-					Riviera? Don't hesitate to <a href="./contact/">contact us</a>!
+					Even though it is relatively expensive to live there, one can truly have a great time if one knows
+					how and where to eat, for example. Further, the marina area is absolutely stunning and you get a
+					great impression of the Norwegian flair. Even though, the city evolves its pure beauty in the summer
+					a visit in the winter is definitely worth it! But as with every destination – you have to experience
+					it by yourself. You want to know more about the French Riviera? Don't hesitate to{' '}
+					<a href="./contact/">contact us</a>!
 				</P>
 			</RespGrid>
 			<br />
