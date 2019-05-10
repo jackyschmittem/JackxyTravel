@@ -11,7 +11,6 @@ import img1 from '../images/Malta/klippen.JPG';
 import img2 from '../images/Malta/tür.JPG';
 import img3 from '../images/Malta/klippen2.JPG';
 import img4 from '../images/Malta/destinations Kopie.JPG';
-import img5 from '../images/Malta/nacht1.JPG';
 import img6 from '../images/Malta/nacht.JPG';
 
 const MaltaPage = () => (

@@ -7,7 +7,7 @@ import SEO from '../components/SEO';
 import Section from '../components/Section';
 import RespGrid from '../components/RespGrid';
 import Figure from '../components/Figure';
-import imgAbout from '../images/AboutUs.JPG';
+import imgAbout from '../images/AboutUs.jpg';
 import imgAbout2 from '../images/AboutUs2.jpeg';
 import imgAbout3 from '../images/Malta/felix.JPG';
 

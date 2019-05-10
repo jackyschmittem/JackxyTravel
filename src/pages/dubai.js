@@ -7,11 +7,11 @@ import SEO from '../components/SEO';
 import Section from '../components/Section';
 import RespGrid from '../components/RespGrid';
 import Figure from '../components/Figure';
-import imgG from '../images/Dubai/Wüste.JPG';
-import imgI from '../images/Dubai/Burj.JPG';
-import imgJ from '../images/Dubai/Marina.JPG';
-import imgK from '../images/Dubai/Garten.JPG';
-import imgL from '../images/Dubai/Feuerwerk.JPG';
+import imgG from '../images/Dubai/Wüste.jpg';
+import imgI from '../images/Dubai/Burj.jpg';
+import imgJ from '../images/Dubai/Marina.jpg';
+import imgK from '../images/Dubai/Garten.jpg';
+import imgL from '../images/Dubai/Feuerwerk.jpg';
 
 const DubaiPage = () => (
 	<Layout>

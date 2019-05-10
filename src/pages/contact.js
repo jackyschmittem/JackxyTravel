@@ -7,7 +7,7 @@ import SEO from '../components/SEO';
 import Section from '../components/Section';
 import RespGrid from '../components/RespGrid';
 import Figure from '../components/Figure';
-import img1 from '../images/Oslo/riesenrad.JPG';
+import img1 from '../images/Oslo/riesenrad.jpg';
 
 const ContactPage = () => (
 	<Layout>

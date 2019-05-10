@@ -7,8 +7,8 @@ import SEO from '../components/SEO';
 import Section from '../components/Section';
 import RespGrid from '../components/RespGrid';
 import Figure from '../components/Figure';
-import imgB from '../images/Oslo/promenade.JPG';
-import imgC from '../images/Oslo/riesenrad.JPG';
+import imgB from '../images/Oslo/promenade.jpg';
+import imgC from '../images/Oslo/riesenrad.jpg';
 
 const OsloPage = () => (
 	<Layout>

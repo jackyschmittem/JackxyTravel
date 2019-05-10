@@ -7,11 +7,11 @@ import SEO from '../components/SEO';
 import Section from '../components/Section';
 import RespGrid from '../components/RespGrid';
 import Figure from '../components/Figure';
-import imgB from '../images/HongKong/handy.JPG';
-import imgC from '../images/HongKong/tempel.JPG';
-import imgD from '../images/HongKong/streetart.JPG';
-import imgE from '../images/HongKong/markt.JPG';
-import imgF from '../images/HongKong/nacht.JPG';
+import imgB from '../images/HongKong/handy.jpg';
+import imgC from '../images/HongKong/tempel.jpg';
+import imgD from '../images/HongKong/streetart.jpg';
+import imgE from '../images/HongKong/markt.jpg';
+import imgF from '../images/HongKong/nacht.jpg';
 
 const HongKongPage = () => (
 	<Layout>

@@ -7,11 +7,11 @@ import SEO from '../components/SEO';
 import Section from '../components/Section';
 import RespGrid from '../components/RespGrid';
 import Figure from '../components/Figure';
-import img1 from '../images/NY/L1001386.JPG';
-import img2 from '../images/NY/L1001071.JPG';
-import img3 from '../images/NY/L1001118.JPG';
-import img4 from '../images/NY/L1001152.JPG';
-import img6 from '../images/NY/L1001050.JPG';
+import img1 from '../images/NY/L1001386.jpg';
+import img2 from '../images/NY/L1001071.jpg';
+import img3 from '../images/NY/L1001118.jpg';
+import img4 from '../images/NY/L1001152.jpg';
+import img6 from '../images/NY/L1001050.jpg';
 
 const NYPage = () => (
 	<Layout>

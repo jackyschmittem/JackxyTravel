@@ -7,11 +7,11 @@ import SEO from '../components/SEO';
 import Section from '../components/Section';
 import RespGrid from '../components/RespGrid';
 import Figure from '../components/Figure';
-import imgB from '../images/Frankreich/hafen.JPG';
-import imgC from '../images/Frankreich/promenade.JPG';
-import imgD from '../images/Frankreich/karusell.JPG';
-import imgE from '../images/Frankreich/strand.JPG';
-import imgF from '../images/Frankreich/riesenrad.JPG';
+import imgB from '../images/Frankreich/hafen.jpg';
+import imgC from '../images/Frankreich/promenade.jpg';
+import imgD from '../images/Frankreich/karusell.jpg';
+import imgE from '../images/Frankreich/strand.jpg';
+import imgF from '../images/Frankreich/riesenrad.jpg';
 
 const FrancePage = () => (
 	<Layout>
