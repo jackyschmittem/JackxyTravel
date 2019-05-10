@@ -40,7 +40,7 @@ const DubaiPage = () => (
 					car ride away, makes this destination to either relax or have a trip full of adventures.
 					Furthermore, one can find incredible handmade jewelry and traditional clothing in the "Old Dubai"
 					where one feels like diving deep into a world of 1001 nights. You want to know more about Dubai?
-					Don't hesitate to <a href="./contact/">contact us</a>!
+					Don't hesitate to <a href="/contact/">contact us</a>!
 				</P>
 			</RespGrid>
 			<br />

@@ -47,7 +47,7 @@ const NYPage = () => (
 					on nearly every corner. Especially the destricts not belonging to the isle of Manhattan are full of
 					beautiful, urban places taking one's breath. But as with every destination – you have to experience
 					it by yourself. You wnat to know more about the dream destination Malta? Don't hesitate to{' '}
-					<a href="./contact/">contact us</a>!
+					<a href="/contact/">contact us</a>!
 				</P>
 			</RespGrid>
 			<br />

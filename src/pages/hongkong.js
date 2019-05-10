@@ -41,7 +41,7 @@ const HongKongPage = () => (
 					temples and old buildings makes the city a pure jewel on everyone's travel bucket list. Furthermore,
 					one can find incredible and internationally known street art in nearly every district. But as with
 					every destination – you have to experience it by yourself. You want to know more about Hong Kong?
-					Don't hesitate to <a href="./contact/">contact us</a>!
+					Don't hesitate to <a href="/contact/">contact us</a>!
 				</P>
 			</RespGrid>
 			<br />

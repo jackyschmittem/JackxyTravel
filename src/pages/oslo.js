@@ -40,7 +40,7 @@ const OsloPage = () => (
 					great impression of the Norwegian flair. Even though, the city evolves its pure beauty in the summer
 					a visit in the winter is definitely worth it! But as with every destination – you have to experience
 					it by yourself. You want to know more about the French Riviera? Don't hesitate to{' '}
-					<a href="./contact/">contact us</a>!
+					<a href="/contact/">contact us</a>!
 				</P>
 			</RespGrid>
 			<br />

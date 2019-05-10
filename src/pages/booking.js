@@ -34,7 +34,7 @@ const BookingPage = () => (
 				</P>
 				<P>
 					That's why our booking procedure cannot be digitalized yet. However, everyone interested can get in
-					touch with us <a href="./contact/">here</a>. We are more than happy to start with you together the
+					touch with us <a href="/contact/">here</a>. We are more than happy to start with you together the
 					process of planning your individual dream getaway. Please state "booking" in the e-mail subject, so
 					that we can identify your booking request right away!
 				</P>

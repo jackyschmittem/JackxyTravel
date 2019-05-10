@@ -47,7 +47,7 @@ const MaltaPage = () => (
 					other European islands: It is not a victim of mass tourism. Malta is full of charming places and
 					small villages by the sea that come to life when the sun goes down. But as with every destination –
 					you have to experience it by yourself. You wnat to know more about the dream destination Malta?
-					Don't hesitate to <a href="./contact/">contact us</a>!
+					Don't hesitate to <a href="/contact/">contact us</a>!
 				</P>
 			</RespGrid>
 			<br />
