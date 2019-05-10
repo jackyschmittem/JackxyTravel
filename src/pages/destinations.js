@@ -9,7 +9,7 @@ import Section from '../components/Section';
 import Figure from '../components/Figure';
 import imgDubai from '../images/Dubai/überseite.jpg';
 import imgHongKong from '../images/HongKong/überseiteneu.jpg';
-import imgFrance from '../images/Frankreich/promenade.JPG';
+import imgFrance from '../images/Frankreich/promenade.jpg';
 import imgOslo from '../images/Oslo/überseite.jpg';
 import imgMalta from '../images/Malta/überseite.JPG';
 import imgNY from '../images/NY/L1001386.jpg';
