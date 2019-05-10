@@ -61,9 +61,7 @@ const AboutPage = () => (
 					</Box>
 				</Flex>
 			</Figure>
-			<Section>
-				<H3>Our Mission</H3>
-			</Section>
+			<H3>Our Mission</H3>
 			<RespGrid min={'240px'}>
 				<P>
 					We dedicate our work to you, the travellers. It is our mission to find the best destinations,
