@@ -71,9 +71,9 @@ const AboutPage = () => (
 					holiday is our goal and we achieve it by identifying your personal needs and wants.
 				</P>
 				<P>
-					It doesn't matter if you are looking for relaxation, an adventure, a family getaway or a city trip –
-					our team includes travel consultants specializing in different travel fields. We make sure to find
-					your perfect, individual escape from reality.
+					It doesn't matter if you are looking for relaxation, an adventure, a family getaway or a city trip
+					&ndash; our team includes travel consultants specializing in different travel fields. We make sure
+					to find your perfect, individual escape from reality.
 				</P>
 			</RespGrid>
 		</Section>
