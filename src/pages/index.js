@@ -18,6 +18,7 @@ const IndexPage = () => (
 	<Layout>
 		<SEO title="Home" keywords={[`travel`, `agency`, `holidays`]} />
 		<Section>
+			<br />
 			<Figure>
 				<Flex flexWrap="wrap">
 					<img src={imgStart} width="100%" height="100%" alt="Ocean" float="left" />
